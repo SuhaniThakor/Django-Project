@@ -1,3 +1,3 @@
 # Django-Project
 Login Page
- and SignUp Page
+ and Sign Up Page
